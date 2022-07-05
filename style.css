@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin: 150px;
 }
 
 .half-width {
@@ -33,6 +34,4 @@ section {
     border-radius: 15px;
     padding: 5px 18px;
     font-weight: 200;
-}
-
 }
