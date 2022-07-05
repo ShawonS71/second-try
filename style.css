@@ -25,6 +25,7 @@ section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.829), rgb(247, 136, 62));
     padding: 8px 20px;
     color: floralwhite;
+    text-align: justify;
 }
 
 .link-button {
