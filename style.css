@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .orange-color {
     color: orange;
 }
@@ -37,6 +41,12 @@ h1 {
     font-weight: 200;
 }
 
-.half-width-bottom {
-    margin-bottom: 100px;
+.experience-itm {
+    box-shadow: 10px 10px 40px gray;
+    width: 35%;
+    margin-left: 7%;
+    margin-right: 4%;
+    padding-left: 8%;
+    border-radius: 15px;
+
 }
