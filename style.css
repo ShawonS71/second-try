@@ -20,6 +20,12 @@ section {
     padding-left: 5%;
 }
 
+.half-width p {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.829), rgb(247, 136, 62));
+    padding: 8px 20px;
+    color: floralwhite;
+}
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(darkblue, cyan);
@@ -27,4 +33,6 @@ section {
     border-radius: 15px;
     padding: 5px 18px;
     font-weight: 200;
+}
+
 }
